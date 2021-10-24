@@ -4,9 +4,6 @@ Attention-guided gan for synthesizing IR images
 
 This repository contains the Tensorflow code for "[Pedestrian Gender Recognition by Style Transfer of Visible-Light Image to Infrared-Light Image Based on an Attention-Guided Generative Adversarial Network](https://www.mdpi.com/2227-7390/9/20/2535)". This code is based on the TensorFlow implementation of AGGAN provide by [AlamiMejjati](https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation).
 
-SI-AGAN structure
-
-![Untitled](SI-AGAN%20e7d120cc4359406894d99bce1d501808/Untitled.png)
 
 ### Dataset
 
