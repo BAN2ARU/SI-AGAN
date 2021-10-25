@@ -19,7 +19,7 @@ I am working on updating to Tensorflow 2.0, and when it is updated, I will add a
 2. make .csv file using create_cyclegan_dataaset.py
 3. start training
     
-    `python main.py --to_train=1 --log_dir=./output/##/## --config_filename=./configs/##.json`
+`python main.py --to_train=1 --log_dir=./output/##/## --config_filename=./configs/##.json`
     
 
 Also, you can check the tensorbaord
